@@ -25,18 +25,18 @@ The data are made available under a [Creative Commons Attribution 4.0 Internatio
 
 The file `istat-demographics.csv.gz` contains the following variables:
 
-| Name            | Content                               |
-|-----------------|---------------------------------------|
-| `group`         | NUTS 1 (groups of regions) identifier |
-| `region`        | NUTS 2 (region) identifier            |
-| `province`      | NUTS 3 / LAU 1 (province) identifier  |
-| `municipality`  | LAU 2 (municipality) identifier       |
-| `year`          | Year                                  |
-| `month`         | Month (1 = January, 12 = December)    |
-| `sex`           | Sex (M = Male, F = Female)            |
-| `births`        | Births                                |
-| `deaths`        | Deaths                                |
-| `net_migration` | Net migration                         |
+| Name            | Content                              |
+|-----------------|--------------------------------------|
+| `group`         | NUTS 1 (group of regions) identifier |
+| `region`        | NUTS 2 (region) identifier           |
+| `province`      | NUTS 3 / LAU 1 (province) identifier |
+| `municipality`  | LAU 2 (municipality) identifier      |
+| `year`          | Year                                 |
+| `month`         | Month (1 = January, 12 = December)   |
+| `sex`           | Sex (M = Male, F = Female)           |
+| `births`        | Births                               |
+| `deaths`        | Deaths                               |
+| `net_migration` | Net migration                        |
 
 **Note**: LAU identifiers are updated periodically; see [this page](http://www.istat.it/it/archivio/6789) (in Italian) for more details.
 

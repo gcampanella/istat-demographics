@@ -1,5 +1,7 @@
 # Istat demographics
 
+By Gianluca Campanella (<gianluca@campanella.org>)
+
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
 The Italian National Institute of Statistics ([Istat](https://www.istat.it/en/)) collates demographic data from register offices, and makes them available through its [demographics portal](http://demo.istat.it/index_e.html).

@@ -27,6 +27,7 @@ class IstatScraper(scrapy.Spider):
         'http://demo.istat.it/bilmens2015gen/left02.php': 2015,
         'http://demo.istat.it/bilmens2016gen/left02.php': 2016,
         'http://demo.istat.it/bilmens2017gen/left02.php': 2017,
+        'http://demo.istat.it/bilmens2018gen/left02.php': 2018,
     }
 
     def start_requests(self):
